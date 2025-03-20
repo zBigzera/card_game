@@ -11,7 +11,6 @@
     'https://nelsoncodepen.s3.eu-west-2.amazonaws.com/thb-254-forest.png',
     'cards/alfa.jpg',
     'cards/art.jpg', 
-    'cards/beta.jpg',
     'cards/filo.jpg',
     'cards/robo.jpg',
     'cards/sigma.jpg'
